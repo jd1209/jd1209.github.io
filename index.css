@@ -1,0 +1,26 @@
+.header
+{
+  border: 3px;
+  border-style: solid;
+  border-color: white;
+}
+
+.header a
+{
+  color: white;
+}
+
+body
+{
+  background-color: #000066;
+  color: white;
+}
+
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  padding: 5px;
+  text-align: left;
+}

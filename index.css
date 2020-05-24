@@ -16,6 +16,9 @@ body
 {
   background-color: #000066;
   color: white;
+  font-family: sans-serif;
+
+
 }
 
 table, td {
@@ -23,6 +26,7 @@ table, td {
   border-collapse: collapse;
 }
 td {
-  padding: 5px;
-  text-align: left;
+  padding: 45px;
+  text-align: center;
+
 }
